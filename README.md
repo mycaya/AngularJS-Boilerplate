@@ -3,7 +3,7 @@ For updated version of AngularJS-Boilerplate please use this one: https://github
 It's component based, based on Angular v1.6.1 and as routing library is used Angular UI Router v1.
 
 # AngularJS-Boilerplate
-Simple AngularJS Boilerplate to kick start your new project with SASS support and Gulp watch/build tasks
+Simple AngularJS Boilerplate to kick start your new project with SASS support and Gulp watch/build tasks.
 
 # Features
 * SASS support including sourceMaps
